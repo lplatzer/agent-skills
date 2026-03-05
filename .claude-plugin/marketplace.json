@@ -1,0 +1,13 @@
+{
+    "name": "lplatzer-skills",
+    "owner": {
+        "name": "lplatzer"
+    },
+    "plugins": [
+        {
+            "name": "coding-tutor",
+            "source": "./coding-tutor",
+            "description": "Coding tutor plugin"
+        }
+    ]
+}
